@@ -1,0 +1,23 @@
+nume1;prenume1;10/11/2000;100;materie1=10-10-9,materie2=8
+nume2;prenume3;30/01/1990;200;materie1=7-10-9,materie3=5
+nume3;prenume1;31/11/2000;300;materie1=10-10-9,materie2=8
+nume4;prenume3;01/01/1990;400;materie1=7-10-9,materie3=5
+nume5;prenume1;10/11/2007;500;materie1=10-1-9,materie2=8-10
+nume6;prenume3;30/01/1900;600;materie1=7-10-9,materie3=5
+nume7;prenume1;10/11/2001;700;materie1=10-1-9,materie2=8
+nume8;prenume3;30/01/1991;800;materie1=7-3-4,materie3=5
+nume9;prenume1;10/11/2002;900;materie1=5-1-6,materie2=1
+nume10;prenume3;30/01/1970;1000;materie1=2-10-9,materie3=5
+
+//un fisier doar pentru nume, prenume, data si id
+//un fisier pentru id si materii
+//un fisier pentru materii si note
+
+//la afisare fac tabel cu media generala si fara data nasterii (la afis in functie de note)
+//Nume sugestive
+// numele aliniate la stanga si numerele la dreapta
+
+
+//idElev nume prenume data nasterii
+//idMaterie nume
+//idNota idMaterie idElev valoare

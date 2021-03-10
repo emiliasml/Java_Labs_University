@@ -1,0 +1,8 @@
+Tuica24,prune,100,25,10
+Vodca26,porumb,150,30,150
+Tuica40,prune,50,35,4
+Vodca38,porumb,150,40,15
+Whiskey,secara,250,25,250
+Alcool50,porumb,250,15,10
+Whiskey50,secara,350,30,150
+Alcool96,porumb,350,20,40

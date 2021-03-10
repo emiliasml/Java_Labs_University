@@ -1,0 +1,8 @@
+Inel,aur,100,10,200
+Inel,argint,150,150,300
+Inel,platina,50,4,100
+Inel,rubin,150,15,125
+Cercel,argint,200,180,250
+Cercel,rubin,75,75,225
+Cercel,aur,130,20,500
+Cercel,platina,125,0,400
